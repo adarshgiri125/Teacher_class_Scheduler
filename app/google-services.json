@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701463806840",
+    "project_id": "lnct-teacher",
+    "storage_bucket": "lnct-teacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701463806840:android:351876bd028ec70bcdbe8d",
+        "android_client_info": {
+          "package_name": "com.company.lnctteachersschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701463806840-koe7g5u9au1a38qf9260qmrecaj52jhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi6ZUlJ9UHbsfbs6AIEqIc29wgwr_E3UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701463806840-koe7g5u9au1a38qf9260qmrecaj52jhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

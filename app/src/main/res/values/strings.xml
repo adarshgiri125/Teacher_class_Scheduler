@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lnct Teachers Schedule</string>
+
+        <string-array name="days_array">
+
+            <item>Monday</item>
+            <item>Tuesday</item>
+            <item>Wednesday</item>
+            <item>Thursday</item>
+            <item>Friday</item>
+            <item>Saturday</item>
+        </string-array>
+
+        <string-array name="periods_array">
+
+            <item>10:30 - 11:20</item>
+            <item>11:20 - 12:20</item>
+            <item>12:10 - 01:00</item>
+            <item>01:00 - 01:50</item>
+            <item>01:50 - 02:40</item>
+            <item>02:40 - 03:30</item>
+            <item>03:30 - 04:15</item>
+            <item>04:15 - 05:00</item>
+        </string-array>
+
+
+</resources>
